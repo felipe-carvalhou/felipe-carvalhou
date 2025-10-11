@@ -40,8 +40,8 @@
 
 ## 💬 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipecarvalho)
-- 📧 **felipe.carvalhou@outlook.com**
+- 💼 [LinkedIn](www.linkedin.com/in/felipe-carvalho-ba2601234)
+- 📧 **felipe1895@gmail.com**
 - 🧠 Sempre aberto a novas ideias e colaborações!
 
 ---
