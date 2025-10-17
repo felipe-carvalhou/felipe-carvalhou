@@ -41,7 +41,7 @@
 ## 💬 Onde me encontrar
 
 - 💼 [LinkedIn](www.linkedin.com/in/felipe-carvalho-ba2601234)
-- 📧 **felipe1895@gmail.com**
+- 📧 **felipecarvalho1895@gmail.com**
 - 🧠 Sempre aberto a novas ideias e colaborações!
 
 ---
