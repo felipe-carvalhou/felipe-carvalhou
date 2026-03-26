@@ -1,49 +1,87 @@
-# 👋 Olá, eu sou o Felipe Carvalho
+<h1 align="center">Felipe Carvalho</h1>
 
-💻 Desenvolvedor Web Júnior apaixonado por tecnologia e aprendizado contínuo.  
-🚀 Trabalho com backend em **Laravel**, **Livewire**, **PostgreSQL**, e também estudo **Python**, **Django**, **Selenium** e **Pandas**.  
-📍 Rio de Janeiro-RJ | 🌐 Sempre buscando evoluir e compartilhar conhecimento!
+<p align="center">
+  Desenvolvedor em formação focado em Laravel, PHP, PostgreSQL, Docker e Tailwind CSS
+</p>
 
----
+<p align="center">
+  Construindo projetos reais, estudando backend e evoluindo um passo por vez 🚀
+</p>
 
-## 🧠 Tecnologias e Ferramentas
-
-### 💻 Desenvolvimento Web
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🐍 Python e Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
+  <a href="https://github.com/felipe-carvalhou">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 👨‍💻 Sobre
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-carvalhou&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-carvalhou&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
-
----
-
-## 🏆 Trophies & Streak
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=felipe-carvalhou&theme=github_dark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-carvalhou&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+- Desenvolvedor focado em **backend com Laravel**
+- Estudando **PHP, banco de dados, arquitetura e boas práticas**
+- Criando projetos reais para **portfólio e crescimento profissional**
+- Interesse em **SaaS, dashboards, automações e sistemas web**
 
 ---
 
-## 💬 Onde me encontrar
+## 🛠 Stack principal
 
-- 💼 [LinkedIn](www.linkedin.com/in/felipe-carvalho-ba2601234)
-- 📧 **felipecarvalho1895@gmail.com**
-- 🧠 Sempre aberto a novas ideias e colaborações!
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
 
 ---
 
-⭐️ _“A melhor maneira de aprender é colocar a mão no código.”_
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-carvalhou&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-carvalhou&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Sequência e atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=felipe-carvalhou&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+- Sistema web com Laravel
+- Dashboard administrativo
+- MVP para negócios locais
+- Projetos de estudo com foco em backend
+
+---
+
+## 🐍 Snake dos commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-carvalhou/felipe-carvalhou/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-carvalhou/felipe-carvalhou/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipe-carvalhou/felipe-carvalhou/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
