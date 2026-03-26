@@ -1,11 +1,11 @@
 <h1 align="center">Felipe Carvalho</h1>
 
 <p align="center">
-  Desenvolvedor em formação focado em Laravel, PHP, PostgreSQL, Docker e Tailwind CSS
+  Desenvolvedor PHP
 </p>
 
 <p align="center">
-  Construindo projetos reais, estudando backend e evoluindo um passo por vez 🚀
+  Construindo projetos reais e evoluindo um passo por vez 🚀
 </p>
 
 <p align="center">
