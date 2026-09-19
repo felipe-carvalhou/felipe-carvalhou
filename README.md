@@ -19,8 +19,7 @@
 ## 👨‍💻 Sobre
 
 - Desenvolvedor focado em **backend com Laravel**
-- Estudando **PHP, banco de dados, arquitetura e boas práticas**
-- Criando projetos reais para **portfólio e crescimento profissional**
+- **PHP, banco de dados, arquitetura e boas práticas**
 - Interesse em **SaaS, dashboards, automações e sistemas web**
 
 ---
